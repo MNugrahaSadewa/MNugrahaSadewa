@@ -5,7 +5,9 @@
 
 ![Banner](https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b761117l3ww38z330b1jqtkuj4ndlvamee1mw60g3qohf&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
----
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- End
 
 ## 🔥 About This Project
 
@@ -18,7 +20,9 @@ This portfolio showcases the work and journey of **Muhammad Nugraha Sadewa**, a 
 - 💼 **Skills, Projects, and Contact Sections**: Clear and concise sections highlighting my expertise and past work.
 - 📱 **Social Media Integration**: Connect with me on various platforms directly from the portfolio.
 
----
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- End
 
 ## ✨ Tech Stack & Tools Used
 
@@ -29,7 +33,9 @@ This portfolio showcases the work and journey of **Muhammad Nugraha Sadewa**, a 
 ![EmailJS](https://img.shields.io/badge/EmailJS-21A366?style=for-the-badge&logo=javascript&logoColor=white)
 ![SweetAlert](https://img.shields.io/badge/SweetAlert2-ff0000?style=for-the-badge&logo=javascript&logoColor=white)
 
----
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- End
 
 ## 🎨 Animations & Design Features
 
@@ -42,7 +48,9 @@ This portfolio is enhanced with dynamic animations to make the browsing experien
 ### 🌑 Dark Mode Example
 ![Dark Mode Toggle Example ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVmMGRmZXYwbjlsZXRoYTgxNHNrZ3p1YmpkNnh0amY5M2h4b2RhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif).
 
----
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- End
 
 ## 🚀 Latest Projects
 
@@ -63,7 +71,9 @@ Here are some of the latest projects I've been working on:
 - 🤖 Developed a self-balancing robot using Arduino and sensor integration.
 - ⚙️ Focused on control systems and embedded software.
 
----
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- End
 
 ## 📬 Connect with Me
 
@@ -75,7 +85,9 @@ Let's connect and stay in touch! Reach out to me on social media:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyahSgBHDilJfQd7930SF2A)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nunukk14)
 
----
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- End
 
 ## 📈 GitHub Stats
 
@@ -83,26 +95,32 @@ Let's connect and stay in touch! Reach out to me on social media:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MNugrahaSadewa&layout=compact&theme=radical)
 
----
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- End
 
 ## 🎯 GitHub Activity
 
 <!-- Add dynamic contribution graph -->
 ![GitHub Contribution Graph](https://ghchart.rshah.org/MNugrahaSadewa)
-
----
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- End
 
 ## ❤️ Special Thanks
 
 Thank you for visiting my portfolio! Feel free to explore the code, contribute to projects, or drop a message if you're interested in collaborating. Together, let's build amazing things! 🚀
 
----
-
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- End
 ### 🙏 Credits
 
 This project was built with love using [Tailwind CSS](https://tailwindcss.com/), [JavaScript](https://www.javascript.com/), and inspired by modern design trends.
 
----
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- End
 
 ### 🎁 Support Me
 
