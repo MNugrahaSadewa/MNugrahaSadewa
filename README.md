@@ -49,17 +49,17 @@ This portfolio is enhanced with dynamic animations to make the browsing experien
 Here are some of the latest projects I've been working on:
 
 ### 1. **GTA V Roleplay Server**
-![GTA Project](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![GTA Project](https://giphy.com/embed/V4NSR1NG2p0KeJJyr5" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5").
 - 🎮 Developed key gameplay features for the server.
 - 🎯 Focused on enhancing player experience and server management.
 
 ### 2. **Web-based Cashier System**
-![Store Project](https://media.giphy.com/media/xT9DPnKCE2qzsDq5c0/giphy.gif)
+![Store Project](https://giphy.com/embed/V4NSR1NG2p0KeJJyr5" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5").
 - 🛒 Built a fully-functional web-based cashier system to streamline business transactions.
 - ⚙️ Integrated with modern APIs and enhanced with responsive design.
 
 ### 3. **Self-Balancing Robot**
-![Robot Project](https://media.giphy.com/media/f9VJtWREyPV09A6wPQ/giphy.gif)
+![Robot Project](https://giphy.com/embed/V4NSR1NG2p0KeJJyr5" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5").
 - 🤖 Developed a self-balancing robot using Arduino and sensor integration.
 - ⚙️ Focused on control systems and embedded software.
 
@@ -69,7 +69,7 @@ Here are some of the latest projects I've been working on:
 
 Let's connect and stay in touch! Reach out to me on social media:
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/yourserver](https://discord.gg/xWfk4HmeS8))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mnugrahasadewa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nunug14)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyahSgBHDilJfQd7930SF2A)
