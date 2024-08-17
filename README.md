@@ -40,7 +40,7 @@ This portfolio is enhanced with dynamic animations to make the browsing experien
 - 🌑 **Dark Mode Toggle**: Allows users to switch between light and dark themes with a toggle.
 
 ### 🌑 Dark Mode Example
-![Dark Mode Toggle Example]([https://giphy.com/embed/V4NSR1NG2p0KeJJyr5](https://giphy.com/embed/V4NSR1NG2p0KeJJyr5)).
+![Dark Mode Toggle Example](https://giphy.com/embed/V4NSR1NG2p0KeJJyr5" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5").
 
 ---
 
