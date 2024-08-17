@@ -40,7 +40,7 @@ This portfolio is enhanced with dynamic animations to make the browsing experien
 - 🌑 **Dark Mode Toggle**: Allows users to switch between light and dark themes with a toggle.
 
 ### 🌑 Dark Mode Example
-![Dark Mode Toggle Example]( https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr)
+![Dark Mode Toggle Example]( https://giphy.com/embed/V4NSR1NG2p0KeJJyr5)
 
 ---
 
@@ -49,17 +49,17 @@ This portfolio is enhanced with dynamic animations to make the browsing experien
 Here are some of the latest projects I've been working on:
 
 ### 1. **GTA V Roleplay Server**
-![GTA Project]( https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr).
+![GTA Project]( https://giphy.com/embed/V4NSR1NG2p0KeJJyr5).
 - 🎮 Developed key gameplay features for the server.
 - 🎯 Focused on enhancing player experience and server management.
 
 ### 2. **Web-based Cashier System**
-![Store Project]( https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr).
+![Store Project](https://giphy.com/embed/V4NSR1NG2p0KeJJyr5).
 - 🛒 Built a fully-functional web-based cashier system to streamline business transactions.
 - ⚙️ Integrated with modern APIs and enhanced with responsive design.
 
 ### 3. **Self-Balancing Robot**
-![Robot Project]( https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr).
+![Robot Project](https://giphy.com/embed/V4NSR1NG2p0KeJJyr5).
 - 🤖 Developed a self-balancing robot using Arduino and sensor integration.
 - ⚙️ Focused on control systems and embedded software.
 
