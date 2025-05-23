@@ -44,27 +44,6 @@ This portfolio is enhanced with dynamic animations to make the browsing experien
 
 ---
 
-## 🚀 Latest Projects
-
-Here are some of the latest projects I've been working on:
-
-### 1. **GTA V Roleplay Server**
-![GTA Project](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVqenp6bTBnOGt0aWFraGR2OXllbzVqZjJpYW11dHBlb3NmZ3dqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wNiTFhWCdlC8g/giphy.gif).
-- 🎮 Developed key gameplay features for the server.
-- 🎯 Focused on enhancing player experience and server management.
-
-### 2. **Web-based Cashier System**
-![Store Project](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBzcjE1anFwNXZtZ2xwajR6bTRyZWVydG1ienF4eXp3YWNmZG1mMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/KwJmFBmogSRyV4rYY7/giphy.gif).
-- 🛒 Built a fully-functional web-based cashier system to streamline business transactions.
-- ⚙️ Integrated with modern APIs and enhanced with responsive design.
-
-### 3. **Self-Balancing Robot**
-![Robot Project](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsaHo1cmhiemthYmVmeHpjaXMwcDYxYTdubjU4YTJ0Y3N2b2VwYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Q1LPV0vs7oKqc/giphy.gif).
-- 🤖 Developed a self-balancing robot using Arduino and sensor integration.
-- ⚙️ Focused on control systems and embedded software.
-
----
-
 ## 📬 Connect with Me
 
 Let's connect and stay in touch! Reach out to me on social media:
