@@ -31,19 +31,6 @@ This portfolio showcases the work and journey of **Muhammad Nugraha Sadewa**, a 
 
 ---
 
-## 🎨 Animations & Design Features
-
-This portfolio is enhanced with dynamic animations to make the browsing experience smooth and engaging.
-
-- ⌛ **Preloader Animation**: A custom loading animation gives users a pleasant waiting experience.
-- 🛠️ **Smooth Scrolling**: Implemented using Tailwind's `scroll-smooth` for a seamless navigation experience.
-- 🌑 **Dark Mode Toggle**: Allows users to switch between light and dark themes with a toggle.
-
-### 🌑 Dark Mode Example
-![Dark Mode Toggle Example ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVmMGRmZXYwbjlsZXRoYTgxNHNrZ3p1YmpkNnh0amY5M2h4b2RhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif).
-
----
-
 ## 📬 Connect with Me
 
 Let's connect and stay in touch! Reach out to me on social media:
